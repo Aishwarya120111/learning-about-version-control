@@ -2,4 +2,3 @@
 
 Author : Aishwarya Nadimpally
 
-Solving merge conflicts is easy!
